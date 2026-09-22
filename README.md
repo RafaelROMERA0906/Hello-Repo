@@ -1,1 +1,2 @@
-Read me via Github
+Read me via VsCode
+
